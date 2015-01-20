@@ -1,6 +1,6 @@
 package require Tk
 
-source reversiProcs2.tcl
+source reversiProcs.tcl
 source updateColors.tcl
 source updateTurn.tcl
 
